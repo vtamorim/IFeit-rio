@@ -6,7 +6,7 @@ Documentação do projeto desenvolvido como atividade da disciplina de **Anális
 
 ### 🎯 Objetivo
 
-Este sistema tem como objetivo **gerenciar as ações relacionadas a cantina e ao refeitório do Campus, como consultar o cardápio do dia/semana**.
+Este sistema tem como objetivo **gerenciar as ações relacionadas ao refeitório do Campus, como consultar o cardápio do dia/semana**.
 
 ### 👥 Público-Alvo
 
