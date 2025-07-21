@@ -1,60 +1,51 @@
 # 📘 Nome do Projeto
 
-Documentação do projeto desenvolvido como atividade da disciplina de **Análise e Projeto Orientado a Objeto**, no Curso **Informática para Internet – IFRN Campus Natal-Central**.
-
----
+Documentação do projeto desenvolvido como atividade da disciplina de **Análise e Projeto Orientado a Objeto**, no Curso Técnico de **Informática para Internet – IFRN Campus Natal-Central**.
 
 ## 📌 Visão do Produto
 
 ### 🎯 Objetivo
-Este sistema tem como objetivo **[descrever brevemente a principal função do sistema, ex: gerenciar o acervo e os empréstimos de uma biblioteca escolar]**.
+
+Este sistema tem como objetivo **gerenciar as ações relacionadas a cantina e ao refeitório do Campus, como consultar o cardápio do dia/semana**.
 
 ### 👥 Público-Alvo
-Usuários como **[ex: bibliotecários, alunos, professores, atendentes, pacientes, etc.]**.
+
+Usuários: **todos os matriculados do Campus**.
 
 ### ⚙️ Principais Funcionalidades
-- Cadastro de **[usuários, livros, atendimentos, reservas...]**
-- Consulta e busca de **[dados relevantes]**
-- **[Listar 3 a 5 funcionalidades principais]**
+
+- Gerenciar cardápio
+- Justificar falta do almoço
+- Registro de restrição alimentar
+- Gerar QR Code da matrícula
 
 ### 🔒 Restrições e Premissas
+
 - Desenvolvido para uso via navegador (web)
 - Interface responsiva
 - Baseado no estudo de caso apresentado na disciplina de Banco de Dados
-
----
 
 ## 📚 Casos de Uso
 
 Os principais casos de uso identificados são:
 
-1. Realizar cadastro de **[entidade principal]**
-2. Consultar informações de **[entidade ou processo]**
-3. Emitir relatório de **[nome do relatório]**
+1. Iniciar sessão
+2. Gerenciar cardápio
+3. Cadastrar restrição alimentar
 
-Para mais detalhes, acesse o arquivo [`casos-de-uso.md`](casos-de-uso.md).
-
-[Link para o Diagrama de casos de uso](#)
-
----
+Para mais detalhes, acesse o arquivo [`casos-de-uso.md`](casos-de-uso.md) e veja o [Diagrama de casos de uso](#).
 
 ## 🧠 Modelo Conceitual
 
 O modelo conceitual representa as classes de análise do sistema, com seus principais atributos e relacionamentos.
 
-[Link para o Diagrama de classes de Análise](#)
-
-As descrições das classes estão disponíveis no arquivo [`modelo-conceitual.md`](modelo-conceitual.md).
-
----
+As descrições das classes estão disponíveis no arquivo [`modelo-conceitual.md`](modelo-conceitual.md) e [clique aqui](#) para o Diagrama de classes de Análise.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Documentação escrita em Markdown
-- Diagramas elaborados com **[Ferramenta usada]**
-- Repositório hospedado no GitHub
-
----
+- Documentação escrita em **Markdown**
+- Diagramas elaborados com **Astah**
+- Repositório hospedado no **GitHub**
 
 ## 👨‍💻 Equipe
 
