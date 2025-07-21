@@ -1,2 +1,2 @@
-# IFeit-rio
+# IFeitório
 Sei lá '-'
