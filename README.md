@@ -5,5 +5,6 @@ Além disso, o processo de justificar a ausência em uma refeição é extremame
 ## Autores:
 •	João Pedro Silva De Oliveira <br>
 •	João Rafael Sobrinho Diogenes Florêncio <br>
-•	Victor Miguel Amorim do Nascimento
+•	Victor Miguel Amorim do Nascimento <br>
+• Luca Hashiguchi Medeiros
 
