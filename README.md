@@ -1,4 +1,4 @@
-# 📘 Nome do Projeto
+# 📘 IFeitório
 
 Documentação do projeto desenvolvido como atividade da disciplina de **Análise e Projeto Orientado a Objeto**, no Curso Técnico de **Informática para Internet – IFRN Campus Natal-Central**.
 
