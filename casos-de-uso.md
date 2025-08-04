@@ -1,3 +1,5 @@
+# Principais Casos de Uso
+
 ## CDU001 – Iniciar Sessão
 
 **Ator Primário:** Aluno ou Coordenação/Administração  
@@ -47,7 +49,9 @@
 2. O aluno seleciona a opção "Minhas Restrições".
 3. O aluno preenche os campos informando suas restrições (ex: vegetariano, intolerância à lactose).
 4. O sistema salva as informações e as vincula à matrícula do aluno.
+
 ### Fluxo Alternativo 
+
 - **FA3 – Remover restrição existente**
 
     **Ponto de inserção:** Após o passo 2 do Fluxo Principal
